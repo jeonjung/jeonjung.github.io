@@ -4,6 +4,8 @@ layout: page
 permalink: /
 ---
 
+![top image]({{ "/assets/img/top.jpg" | relative_url }})
+
 # Toshihisa Tanaka, Ph.D.
 
 Professor, Tokyo University of Agriculture and Technology (TUAT)  
@@ -17,7 +19,7 @@ Welcome to my personal page. This site is currently being migrated and will be u
 
 ## News (highlights)
 - 2028: ICASSP comes to Tokyo; I serve as General Chair.
-- 2025â€“: Ongoing work on EEG foundation models and speech-BCI.
+- 2025â€ Ongoing work on EEG foundation models and speech-BCI.
 
 ## Selected links
 - Google Scholar: <https://scholar.google.com/>
