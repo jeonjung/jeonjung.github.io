@@ -1,9 +1,11 @@
 title: "Toshihisa Tanaka"
 description: "Professor, Tokyo University of Agriculture and Technology (TUAT)"
 url: "https://jeonjung.github.io"
-baseurl: ""
+baseurl: ""        # 空
+encoding: "utf-8"
 theme: minima
-markdown: kramdown
+
+
 plugins:
   - jekyll-seo-tag
 
