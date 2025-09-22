@@ -1,6 +1,7 @@
 ---
 title: Home
 permalink: /
+layout: null
 ---
 
 <p align="center">
