@@ -19,3 +19,5 @@ header_pages:
   - publications.md
   - research-interest.md
   - contact.md
+
+encoding: "utf-8"
