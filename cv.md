@@ -9,13 +9,13 @@ layout: page
 Toshihisa Tanaka is a Professor at the Tokyo University of Agriculture and Technology (TUAT). His research spans signal processing and machine learning for brain窶田omputer interfaces (BCI), EEG analysis, and biomedical AI. He also serves as General Chair of **IEEE ICASSP 2028 Tokyo** and as a Visiting Researcher at **RIKEN AIP**.
 
 ## Education
-- Ph.D., Electrical/Information Engineering, (Year) 窶Tokyo Institute of Technology
-- M.S., (Year) 窶(Institution)
-- B.S., (Year) 窶(Institution)
+- Ph.D., Electrical/Information Engineering, (2002)  Tokyo Institute of Technology
+- M.S., (2000) Tokyo Institute of Technology
+- B.S., (1997) Tokyo Institute of Techology
+ 
 
 ## Appointments
-- Professor, TUAT 窶2018窶菟resent
-- (Previous roles窶ヲ)
+- Professor, TUAT 2018--Present
 
 ## Honors & Activities
 - General Chair, IEEE ICASSP 2028 Tokyo
