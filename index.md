@@ -24,6 +24,7 @@ Welcome to my personal page. This site is currently being migrated and will be u
 - 2025: Ongoing work on EEG foundation models and speech-BCI
 
 ## Selected links
-- Google Scholar: <https://scholar.google.com/>
+- Google Scholar: <https://scholar.google.com/citations?user=pBXvYnwAAAAJ&hl=en>
+- LAB: <https://www.sip.tuat.ac.jp/>
 - TUAT: <https://www.tuat.ac.jp/>
 - EECS, TUAT: <https://www.eecs.tuat.ac.jp/>
