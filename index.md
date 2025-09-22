@@ -5,7 +5,7 @@ permalink: /
 ---
 
 <p align="center">
-  <img src="{{ "/assets/img/top.jpg" | relative_url }}" alt="top image" width="600">
+  <img src="{{ "/assets/img/top.jpg" | relative_url }}" alt="top image" width="200" align="right">
 </p>
 
 # Toshihisa Tanaka, Ph.D.
