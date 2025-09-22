@@ -1,7 +1,17 @@
 url: "https://jeonjung.github.io"
+title: "Toshihisa Tanaka"
+description: "BCI / EEG / Signal Processing @ TUAT"
+author: "Toshihisa Tanaka"
 baseurl: ""
 encoding: "utf-8"
 theme: minima
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+
+header_pages:
+  - index.md
+  - research-interest.md
+  - publications.md
+  - cv.md
+  - contact.md
