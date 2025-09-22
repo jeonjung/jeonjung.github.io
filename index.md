@@ -1,7 +1,7 @@
 ---
 title: Home
-permalink: /
 layout: null
+permalink: /
 ---
 
 <p align="center">

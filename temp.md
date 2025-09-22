@@ -1,7 +1,6 @@
 ---
 title: Home
 # layout: page
-permalink: /
 ---
 
 ![top image](https://jeonjung.github.io/assets/img/top.jpg)
