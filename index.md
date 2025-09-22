@@ -4,7 +4,9 @@ layout: page
 permalink: /
 ---
 
-![top image](https://jeonjung.github.io/assets/img/top.jpg)
+<p align="center">
+  <img src="{{ "/assets/img/top.jpg" | relative_url }}" alt="top image" width="600">
+</p>
 
 # Toshihisa Tanaka, Ph.D.
 
